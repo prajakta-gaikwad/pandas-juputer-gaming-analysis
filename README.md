@@ -1,1 +1,1 @@
-# pandas-juputer-gaming-analysis
+# pandas-jupyter-gaming-analysis
