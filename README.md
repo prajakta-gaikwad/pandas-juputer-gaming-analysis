@@ -1,6 +1,12 @@
-<<<<<<< HEAD
+# Analyzing data of a fantasy game Heroes of Pymoli
+Like many others in its genre, the game is free-to-play, but players
 
-### Heroes Of Pymoli Data Analysis
+Tech/framework used:
+Pandas Library
+
+Jupyter Notebook
+
+Observable trends based on the data analysis:
 * Of the 576 players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%). Although there is a huge difference in the games's gender demographic, there is not much difference between the amout each gender spends on average. On the contrary female players spend a little more than male players(\$4.5 compared to \$4.0). We can further look into this gender gap and make a business strategy on attracting more female players.
 
 
